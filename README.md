@@ -1,7 +1,6 @@
 # gujju-python
-!Work In Progress
 
-Write your python code in gujarati(kinda)
+Write your python code in gujarati
 #### Reasons why I Made this:
 - I don't know
 - inspired/copied from AeroAndZero
